@@ -9,7 +9,7 @@ It then recognizes changes over the course of the trip, and thus also the driver
 
 **Methodology:**
 <br>
-The proposed work is based on behavioral measures. In behavioral measuring or visual based approach different gestures of 
+The project is based on behavioral measures. In behavioral measuring or visual based approach different gestures of 
 the driver like eye blink are monitored to examine the state of the driver. The following steps are considered to monitor the driver.
 
 - The algorithm detects the face in the pre-processed image by using facial landmarks produced by Dlib library.
